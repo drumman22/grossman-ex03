@@ -25,6 +25,6 @@ public class Solution03 {
         author = input.nextLine();
 
         // Output
-        System.out.println(author + " says, \"" + quote + "\" ");
+        System.out.println(author + " says, \"" + quote + "\"");
     }
 }
